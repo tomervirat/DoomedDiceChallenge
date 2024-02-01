@@ -15,7 +15,7 @@ javac -d ./src/ src/*.java
 
 > To run the code and store the output in the text file, execute the below command in the project directory.
 ```
-./src/ Doomed_dice_challange > ./Output/output.txt
+java -cp ./src/ Doomed_dice_challange > ./Output/output.txt
 ```
 
 Wait for a moment, the output will be stored in the text file named output.txt inside the Output folder.
