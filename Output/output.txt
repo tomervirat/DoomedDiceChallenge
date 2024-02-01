@@ -1,0 +1,27 @@
+
+The total number of combinations are: 36
+
+Combinations Distribution:
+2	3	4	5	6	7	
+3	4	5	6	7	8	
+4	5	6	7	8	9	
+5	6	7	8	9	10	
+6	7	8	9	10	11	
+7	8	9	10	11	12	
+
+The probability of all the sums are: 
+
+	P(sum=2) = 0.027777777777777776
+	P(sum=3) = 0.05555555555555555
+	P(sum=4) = 0.08333333333333333
+	P(sum=5) = 0.1111111111111111
+	P(sum=6) = 0.1388888888888889
+	P(sum=7) = 0.16666666666666666
+	P(sum=8) = 0.1388888888888889
+	P(sum=9) = 0.1111111111111111
+	P(sum=10) = 0.08333333333333333
+	P(sum=11) = 0.05555555555555555
+	P(sum=12) = 0.027777777777777776
+
+No valid transformation of dice found.
+
